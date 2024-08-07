@@ -3,6 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+main{
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
 
 /* head start */
 head {
