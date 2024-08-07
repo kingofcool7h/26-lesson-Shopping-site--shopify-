@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* head start */
+head {
+    width: 100%;
+    height: 66px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+head div a {
+    color: #1d1d1d31;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.8rem;
+    
+}
+/* head end */
